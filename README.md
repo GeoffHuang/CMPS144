@@ -1,2 +1,2 @@
 # Project-Doodle
-A machine learning model that categorizes hand-drawn sketches.
+A Convolutional Neural Network that categorizes hand-drawn sketches.
