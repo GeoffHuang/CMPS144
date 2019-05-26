@@ -1,2 +1,2 @@
 # Project-Doodle
-Machine Learning Project
+A machine learning model that categorizes hand-drawn sketches.
